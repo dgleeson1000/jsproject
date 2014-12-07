@@ -1,0 +1,63 @@
+{"asics":[
+{
+"image":"asics/1.jpg", 
+"description":"Gel-Kayano 21",
+"price":"98"
+}
+{
+"image":"asics/2.jpg", 
+"description":"Gel-Kayano 21",
+"price":"125"
+}
+{
+"image":"asics/3.jpg", 
+"description":"Gel-Emperor 2",
+"price":"85"
+}
+{
+"image":"asics/4.jpg", 
+"description":"Gel-Fujisetsu G-TX",
+"price":"75"
+}
+{
+"image":"asics/5.jpg", 
+"description":"Gel-Fortitude 6",
+"price":"94"
+}
+{
+"image":"asics/6.jpg", 
+"description":"Gel-Nimbus 16 GS",
+"price":"86"
+}
+{
+"image":"asics/7.jpg", 
+"description":"Piranha SP 5",
+"price":"113"
+}
+{
+"image":"asics/8.jpg", 
+"description":"Gel-Pursuit 2",
+"price":"125"
+}
+{
+"image":"asics/9.jpg", 
+"description":"Gel-Fujiattack 3",
+"price":"125"
+}
+{
+"image":"asics/10.jpg ", 
+"description":"Gel-Super J33",
+"price":"75"
+}
+{
+"image":"asics/11.jpg ", 
+"description":"Gel-Cumulus 16 GS",
+"price":"175"
+}
+{
+"image":"asics/12.jpg", 
+"description":"GT-2000 2",
+"price":"75"
+}
+]}
+
